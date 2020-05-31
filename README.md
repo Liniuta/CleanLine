@@ -14,6 +14,7 @@ git clone https://github.com/Liniuta/CleanLine
 sudo bash
 ```
 ***NOTE: This program have a function, which checks if user is root or no***
+
 **Now you can run the program, simply just run**
 ```
 chmod +x clean-line.py
