@@ -13,9 +13,9 @@ git clone https://github.com/Liniuta/CleanLine
 ```
 sudo bash
 ```
-***NOTE: This program have a function, which checks if user is root or no.***
+***NOTE: This tool have a function, which checks if user is root or no.***
 
-**Now you can run the program, simply just _run_**
+**Now you can run the tool, simply just _run_**
 ```
 chmod +x clean-line.py
 ```
@@ -23,4 +23,8 @@ chmod +x clean-line.py
 ```
 python clean-line.py
 ```
-**Just follow on-screen instructions and you will be fine**
+**Things which this tool clean:**
+- APT (Advanced Package Tool) cache.
+- Journalctl logs.
+- Files and folders from recycle bin.
+- Thumbnails cache
