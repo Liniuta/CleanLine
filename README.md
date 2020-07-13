@@ -1,6 +1,6 @@
 # CleanLine
 ## CleanLine is a tool that cleans the system of unnecessary files and slightly improves system performance, made in Python.
-## This tools works only on **Linux-based** systems
+## This tool works only on **Linux-based** systems
 ### To-Do List:
 - [x] Create a repository.
 - [ ] Add more cleaning options.
